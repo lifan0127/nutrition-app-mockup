@@ -1,0 +1,27 @@
+{
+  "name": "nutrition-app-mockup",
+  "version": "1.0.0",
+  "description": "Mockup for the proposed nutrition app",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifan0127/nutrition-app-mockup.git"
+  },
+  "keywords": [
+    "nutrition"
+  ],
+  "author": "Fan Li",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lifan0127/nutrition-app-mockup/issues"
+  },
+  "homepage": "https://github.com/lifan0127/nutrition-app-mockup#readme"
+}
